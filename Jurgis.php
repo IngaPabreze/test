@@ -27,7 +27,5 @@ class Jurgis
         }
 
         return 'Aha gerai.';
-
     }
-
 }
